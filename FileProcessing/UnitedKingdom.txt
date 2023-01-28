@@ -1,0 +1,25 @@
+Visual Basic,0.23
+VBA,0.95
+TypeScript,1.9
+Swift,1.74
+Scala,0.86
+Rust,2.74
+Ruby,0.66
+R,7.22
+Python,32.9
+PHP,3.1
+Perl,0.67
+Objective-C,2.68
+Matlab,2.05
+Lua,0.59
+Kotlin,0.96
+Julia,0.62
+JavaScript,10.1
+Java,14.45
+Haskell,0.73
+Groovy,0.41
+Go,1.5
+Dart,0.85
+Cobol,0.07
+C/C++,4.1
+C#,7.9
